@@ -1,0 +1,65 @@
+# Project Reflection: CRUD Module & Dashboard for Grazioso Salvare
+
+## ✨ Writing Maintainable, Readable, and Adaptable Programs
+
+To write programs that are **maintainable**, **readable**, and **adaptable**, I focus on clean, modular code with clear documentation.
+
+In **Project One**, I developed a reusable **CRUD (Create, Read, Update, Delete)** Python module that interacted with a database. This module became the foundation for **Project Two**, allowing dashboard widgets to pull and manipulate real-time data seamlessly.
+
+### ✅ Best Practices I Followed:
+- **Separation of Concerns:** Database operations were kept separate from the interface/dashboard logic.
+- **Descriptive Naming:** Functions and variables had clear, purposeful names.
+- **Consistent Formatting & Comments:** Made the code easier to review, share, and maintain.
+- **Robust Error Handling:** Using `try-except` blocks ensured stability and clear debugging.
+
+### 🧠 Advantages of the CRUD Module:
+- **Reusability:** Once built, it powered multiple features without duplicating logic.
+- **Scalability:** The backend was designed to support future interface updates with minimal changes.
+- **Consistency:** Centralizing data access ensured cleaner code and fewer bugs.
+
+**Looking Ahead:**  
+This module could serve as a base for future apps or dashboards—whether it's reporting tools, web apps, or even API endpoints.
+
+---
+
+## 🧩 Problem-Solving Approach as a Computer Scientist
+
+As a computer scientist, I break down large problems into clear, actionable steps.
+
+For the Grazioso Salvare project:
+1. ✅ I reviewed the database schema and clarified the client's needs.
+2. 🛠️ I developed the CRUD module to serve as a reliable data access layer.
+3. 📊 I built dashboard widgets that connected to this backend.
+4. 🔄 I iterated and tested, ensuring a smooth, functional experience for the end user.
+
+### 🔍 Compared to Previous Coursework:
+This project required real-world thinking—beyond isolated coding tasks. I had to:
+- Think about **usability** and **client needs**
+- Integrate **frontend and backend systems**
+- Prioritize **code structure** and **long-term flexibility**
+
+### 🧪 Strategies I’d Use Again:
+- **ERDs (Entity Relationship Diagrams)** for database planning
+- **Modular development** to separate logic cleanly
+- **Client-focused user stories** to guide features
+- **Test-driven development** for critical backend components
+
+---
+
+## 💻 What Computer Scientists Do—and Why It Matters
+
+Computer scientists use technology to solve real-world problems. Whether it’s data analysis, systems automation, or user-facing applications, the goal is to build smart, efficient, and helpful solutions.
+
+### 👥 Real Impact at Grazioso Salvare:
+My dashboard allowed team members to interact with outcome data easily—no spreadsheets required. With filters, visuals, and dynamic displays, they could:
+- Identify trends
+- Make faster decisions
+- Work more efficiently
+
+This project wasn’t just about writing code—it was about making **their mission easier to achieve**.
+
+---
+
+> 🔁 _"Code that’s flexible today avoids being broken tomorrow."_  
+> — A lesson I’ll carry forward into every project.
+
